@@ -12,7 +12,6 @@
 }
 
 .square {
-    width: 25%; 
-    height: 25%;
     border: 1px solid black;
+    box-sizing: border-box;
 }
