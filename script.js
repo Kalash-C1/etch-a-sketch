@@ -24,7 +24,6 @@ else {
             const g = randomInt();
             const b = randomInt();
             e.target.style.backgroundColor = `rgb(${r}, ${r}, ${r})`;
-            // e.target.style.backgroundColor = "blue";
         });
     });
     sq.forEach(sq => {
